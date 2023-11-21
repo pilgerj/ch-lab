@@ -1,0 +1,57 @@
+Criação de projeto:
+
+
+- Pensar na ideia do projeto 
+(ver referencias de concorrencia, layout, etc)
+*dribble, behance...
+
+- Funções e possibilidades
+(funcoes basicas a serem feito por primeiro
+ate funcoes mais complexas ou especificas para ser feito 
+depois)
+*usar outros apps de ref 
+
+- Definir paleta de cores e tipografia
+*Cores: color.adobe, coolor
+*Variacoes de cores: css tailwind css color generator
+( eh um plugin no Figma, usar o 'generate a color guide')
+*fontes: 2 fontes diferentes
+1 para chamar atenção
+1 para texto normal
+32 24 16 8 px
+
+- Command + K -> elasticsearch
+
+
+/////////////////////////////////////
+
+
+
+- Projeto:
+CH SHITS
+
+- Funcoes:
+
+- Criar user / Login /
+- Dashboard basico
+- Mostrar 'cursos' disponiveis para comprar
+- criar relação de user e curso, produto
+- criar niveis de acesso
+( admin, user ) e 'items desbloqueados (cursos que o user possui acesso) 
+- Dashboard
+- Login admin
+- upar video
+- mostrar video pros usuarios 
+
+
+- Começar dev:
+
+usar o conceito de Monorepo, 
+utilizando o Turborepo
+> suporte a cache avançado
+
+> pasta "packages" usada pra criar 
+componentes/classes para serem reutilizados
+
+
+

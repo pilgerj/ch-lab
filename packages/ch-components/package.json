@@ -1,0 +1,13 @@
+{
+  "name": "ch-components",
+  "version": "1.0.0",
+  "description": "ch-components",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "Joao Pilger",
+  "license": "ISC"
+}
