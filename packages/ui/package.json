@@ -13,7 +13,6 @@
     "eslint": "^7.32.0",
     "react": "18.2",
     "tsconfig": "*",
-    "ch-components": "../ch-components",
     "typescript": "^4.5.2"
   }
 }

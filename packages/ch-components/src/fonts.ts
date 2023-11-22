@@ -7,8 +7,8 @@ export const fonts = {
         sm: '0.875rem',
     },
     fontWeights: {
-        regular: 400,
-        bold: 700
+        regular: '400',
+        bold: '700'
     },
     fontFamilies: {
         default: 'Roboto',

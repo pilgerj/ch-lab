@@ -1,5 +1,5 @@
 import type { Config } from 'tailwindcss'
-import { colors, spacing, radii, fonts } from 'ch-components'
+import { colors, spacing, radii, fonts } from '@ch-lab/ch-components'
 const config: Config = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',

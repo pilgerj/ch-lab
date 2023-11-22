@@ -26,7 +26,6 @@ depois)
 /////////////////////////////////////
 
 
-
 - Projeto:
 CH SHITS
 
@@ -55,3 +54,13 @@ componentes/classes para serem reutilizados
 
 
 
+/////////// comandos 
+
+-----> yarn create next-app web
+> criar projeto next 
+
+----->nvm install 21.0.0
+> instalar versao node
+----->nvm use 21.0.0
+
+----->npm install -g yarn
