@@ -1,3 +1,6 @@
+  /////////////////////////////////////
+ //////// how to projetinho //////////
+/////////////////////////////////////
 Criação de projeto:
 
 
@@ -23,9 +26,9 @@ depois)
 - Command + K -> elasticsearch
 
 
+  /////////////////////////////////////
+ //////////// projetinho /////////////
 /////////////////////////////////////
-
-
 - Projeto:
 CH SHITS
 
@@ -53,14 +56,21 @@ utilizando o Turborepo
 componentes/classes para serem reutilizados
 
 
-
-/////////// comandos 
+  /////////////////////////////////////
+ ///////////// comandos //////////////
+/////////////////////////////////////
 
 -----> yarn create next-app web
 > criar projeto next 
 
 ----->nvm install 21.0.0
 > instalar versao node
+
 ----->nvm use 21.0.0
+> usar a versao node
 
 ----->npm install -g yarn
+> instlar o yarn na versao node atual
+
+----->node index.js 
+> rodar serv

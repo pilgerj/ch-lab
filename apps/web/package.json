@@ -12,8 +12,9 @@
     "@ch-lab/ch-components": "*",
     "next": "14.0.3",
     "react": "^18",
-    "tsconfig": "*",
     "react-dom": "^18",
+    "react-hook-form": "^7.48.2",
+    "tsconfig": "*",
     "ui": "*"
   },
   "devDependencies": {
